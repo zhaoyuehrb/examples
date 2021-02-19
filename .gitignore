@@ -15,3 +15,5 @@ fast_neural_style/saved_models.zip
 
 # vi backups
 *~
+word_language_model/model_no_share.pt
+*.pt
